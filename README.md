@@ -1,6 +1,6 @@
 ## Hi, I'm Ajay Rathod 👋
 
-🎓 M.Sc. Computer Science (Expected 2026)  
+🎓 B.Sc. Computer Science (2024)  
 💻 Software Developer | C++ | Java | Data Structures & Algorithms  
 🐧 Linux | SQL | Backend Development  
 
